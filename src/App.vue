@@ -2,7 +2,7 @@
   <div id="app">
     <img width="25%" src="./assets/bf-image-footer.png">
     <BfText msg="Date is coming!"/>
-    <flip-countdown deadline="2020-12-08 18:00:00"></flip-countdown>
+    <flip-countdown deadline="2020-12-08 20:00:00"></flip-countdown>
   </div>
 </template>
 
